@@ -29,10 +29,10 @@
 
 
 ## Installation
-Build an Electron App in Under 60 Minutes.
+Learn Electron in Less than 60 Minutes - Free Beginner's Course.
 ### Setup Instructions (click)
 
-[![Build an Electron App in Under 60 Minutes.](https://i.ytimg.com/vi/kN1Czs0m1SU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBoMrwt6kqnnQqtZS6RaJvTmFPmw)](https://www.youtube.com/watch?v=kN1Czs0m1SU "Build an Electron App in Under 60 Minutes.")
+[![Learn Electron in Less than 60 Minutes - Free Beginner's Course.](https://i.ytimg.com/vi/2RxHQoiDctI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBoMrwt6kqnnQqtZS6RaJvTmFPmw)](https://www.youtube.com/watch?v=2RxHQoiDctI "Learn Electron in Less than 60 Minutes - Free Beginner's Course")
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ npm init
 
 1. Clone the repo
 ```sh
-git clone https://github.com/gurraoptimus/Electron.git
+git clone https://github.com/gurraoptimus/My-App.git
 cd Electron
 ```
 2. Install NPM electron packages
