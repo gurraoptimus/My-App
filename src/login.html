@@ -1,33 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
+
+
+
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="login.css">
-    <title>login</title>
+<title>SECURITY</title>
+<!-- Include CSS File Here -->
+<link rel="stylesheet" href="login.css"/>
+<!-- Include JS File Here -->
+<script src="java.js"></script>
 </head>
 <body>
-    <div class="login-box">
-        <h2>Login</h2>
-        <form>
-            <div class="user-box">
-                <input type="txt" name="" required="">
-                <label>Username</label>
-            </div>
-            <div class="user-box">
-                <input type="password" name="" required="">
-                <label>password</label>
-            </div>
-            <a href="#">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                Login
-            </a>
-        </form>
-    </div>
-    <script>../src/java.js</script>
+<div class="container">
+<div class="main">
+<h2>SECURITY secret page! </h2>
+<form id="form_id" method="post" name="myform">
+<label>User Name :</label>
+<input type="text" name="username" id="username"/>
+<label>Password :</label>
+<input type="password" name="password" id="password"/>
+<input type="button" value="Login" id="submit" onclick="validate()"/>
+</form>
+<span><b class="note">Note : </b>For this demo use following username and password. <br/><b class="valid">User Name : user <br/>Password : user</b></span>
+</div>
+</div>
 </body>
 </html>
