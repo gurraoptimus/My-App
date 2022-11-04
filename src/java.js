@@ -3,7 +3,7 @@ var attempt = 3; // Variable to count number of attempts.
 function validate(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "user" && password == "' or '1'='1'"){
+if ( username == "user" && password == "user"){
 alert ("Login success");
 window.location = "https://www.arnflo.se"; // Redirecting to other page.
 return true;
