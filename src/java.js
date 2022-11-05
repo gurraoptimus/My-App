@@ -5,7 +5,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "user" && password == "user"){
 alert ("Login success");
-window.location = "https://www.arnflo.se"; // Redirecting to other page.
+window.location = "../src/login2.html"; // Redirecting to other page.
 return true;
 }
 else{
