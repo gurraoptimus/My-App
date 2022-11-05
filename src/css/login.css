@@ -22,7 +22,7 @@ font-family: 'Raleway', sans-serif;
 div.main{
 width: 300px;
 padding: 10px 50px 25px;
-border: 2px solid #6b0c42;
+border: 2px solid #6b0c42,#6b0c22;
 border-radius: 10px;
 font-family: raleway;
 float:left;
